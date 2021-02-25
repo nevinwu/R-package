@@ -1,0 +1,39 @@
+Package: franciscomartinez
+Type: Package
+Title: franciscomartinez
+Version: 1.0
+Date: "09/05/2020"
+Authors@R: person("Francisco","Martinez",email="marpi3@alumni.uv.es",
+		  role = c("aut","cre")) 
+Description: A package containing all tasks for Bioinformatica Estadistica module in 		     Bioinformatica MSc (Universitat de Valencia).
+Imports: 
+    affy,
+    affyPLM,
+    AnnotationDbi,
+    ArrayExpress,
+    Biobase,
+    GEOquery,
+    geneplotter,
+    hugene10sttranscriptcluster.db,
+    limma,
+    ReportingTools,
+    SummarizedExperiment,
+    Rsamtools,
+    GenomicFeatures,
+    GenomicAlignments,
+    edgeR,
+    org.Ce.eg.db,
+    EnrichmentBrowser,
+    GSA,
+    tami
+Suggests:
+    devtools,
+    knitr,
+    pkgdown,
+    Rcpp,
+    rmarkdown
+URL: NA
+VignetteBuilder: knitr
+License: GPL-2
+LazyLoad: yes
+RoxygenNote: 7.1.0.9000

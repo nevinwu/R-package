@@ -1,0 +1,11 @@
+pandoc: 2.9.2.1
+pkgdown: 1.5.1
+pkgdown_sha: ~
+articles:
+  T1_Microarray: T1_Microarray.html
+  T2_ExprDiferencial: T2_ExprDiferencial.html
+  T3_RNAseq: T3_RNAseq.html
+  T4_Sobrerrepresentacion: T4_Sobrerrepresentacion.html
+  T5_GeneSetAnalysis: T5_GeneSetAnalysis.html
+last_built: 2020-07-16T16:36Z
+
